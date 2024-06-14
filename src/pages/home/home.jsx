@@ -67,7 +67,7 @@ const Home = () => {
                     <li><a href='#portfolio'>portfolio</a></li>
                     <li><a href='#about'>about</a></li>
                 </ul>
-                <h2>The creative Ojay</h2>
+                <h2>The creative Ojay</h2>  
                 <ul id='navRight'>
                     <li><a href='#testimonial'>testimonials</a></li>
                     <li><a href='#services'>skills</a></li>
